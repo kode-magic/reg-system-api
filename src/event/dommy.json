@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "id": "8787nbcha7vavc",
+      "votes": 200,
+      "name": "Ms Hennie Grønbech",
+      "bio": "hennie.gronbech@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    {
+      "id": "7657axv68XVX",
+      "votes": 306,
+      "name": "Mr Marolo Costa",
+      "bio": "marolo.costa@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/79.jpg"
+    },
+    {
+      "id": "hgaj727355jdjvc",
+      "votes": 300,
+      "name": "Mr Luis Sullivan",
+      "bio": "luis.sullivan@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+      "id": "675131kjgkajskdj",
+      "votes": 300,
+      "name": "Mrs Afşar Aybar",
+      "bio": "afsar.aybar@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/61.jpg"
+    },
+    {
+      "id": "875135nmvvcbhafd",
+      "votes": 101,
+      "name": "Swgnd Hydry",
+      "bio": "swgnd.hydry@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/22.jpg"
+    }
+  ]
+}

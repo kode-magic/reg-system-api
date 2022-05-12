@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mamie-koca",
+  "private_key_id": "96dc0550714c892840c3cf03fd018eb4a4922f24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5QYygCBrDJ00x\nE99G9UpmGqCINcps1q56Ai6TegPZjicZ+LnMZbKrYhiMiNJ23ZxQ+q94H1X7NBSP\ng0PmDlbwX5/kFxqw3B92FUwe4hglFy7UneWVYV8LI/erCRDilwHRXIqP202UFbbm\nLONP32Db4iWU+2DG6aJP2OwTanTdHbSwd3O2pBSJZ7yPjmB3oICewrzJOujZkaYW\nyMYix+sqZba3D0UtwA1ZCzgBPIoQMLqo1Zo/i/Yo9dr05izJno8wNUwU9HNTvgB/\nNVSpesx8slKa90HWvl0TiL+3PSXIxRKJOMr9fDkfgMtE3V06uVUuOxRXoX0sUC1R\njLfyKoLjAgMBAAECggEAD/Sd1ICuMWW2p8Xy4o0o0b90WRbs7s/Uqix673fAUiIE\nqx95fSm7KDikLaJxIgy3NGBK8ZkdUivro2qmU++jPEO4JTB6O4ZR7V0rN7O4aaVk\nAqrwxZtj0LVR1PjMa/+eh/Yk9vvn5Bu0q4FtOIlgMb/6Bala7fbcZG0l9AwksZCC\nXnq/BT4aD9q9hTjwLeQKXRuy0bZ0eUKa9HVx5efvSiK5Qa3qkphhzr5svnMlBjkK\nNB+IA8TKhJeIBe+Att+gto/Sx2CzbNKkIOz3F5TnFeQnEJl1YbTOUaQzKhwslQXH\nUibaOOiewrKAevpl5JC+UIK267kwaVjYU4RcqDZcwQKBgQDi8h2oI3Q71jVx2NZO\nMhQJlxJ0QEjtdl2OI5uVKTAjvqMZqIYbXTFtDVNBN5D0yku1E0XnL7pV3h+XpnDY\nmUT+rcrQoUc3JKqXPrPTN5LQxEhU5HSj7q6PsYEE8A9tl1tGCjl9OnKtOE7eUC+b\nNNfIcAe7rrZdX/QQvGCZiSL+wQKBgQDQ+Rn7eBrm4APa6wlfZ1mcmVb8Hh/ZVvRQ\n9PMq4bLv5WYS4/xrNuZ1VwYb+9BjkjjoO50pzq1DEp5b6ZcQuwbKKxXb7uGmg9bX\n3fhmaXKq+iTIdL7707B3nwH0rk8ulJX7CEaPd8HJ+mnFVw6Mh5wStPJysh7MgRVa\nCyEXA6POowKBgHvPrxJN1VnXsWyc6b3bYEcjHjRB5gd27e9fyb+Eqvi1RnH3GMLR\nAugFvwfzcqe5vbfZ/eb0iOnTttSbPzFL3PI8iktr0VhqLo847A4tYXF3xCZcRK4y\nxxUpt8Oj3Cbjzi3V4itJucp6z7xFbtNz7s0xIWbpGCC0+ogu3VymDmuBAoGAAZqX\n13VBh5oajXiWVtQdPPV0VHUKu4lOULzAjQi0beDt2qFDU7NVK3tigZ56J/l8VFP4\nzdRXQheHfZ8aWLeGwtB313tK4hNK99ctS+PtTGClHaC/woEKbrCavD0GQI5FZGrY\n18sMgrdYTnpvkyaLTR10aurxD5LCDjHdrCaMAE8CgYAQvNuri3JN/VXeAqaT8rQJ\nkN8LxDxe0v/QvHFxEwFl3U6ofIoQFJwGtP00qGwU5oxidpzgDzN29zoy0aexL7RM\nbLdRIawlBADyZuTBmB2as5+luk7NakEo9090ob6WptAEy12QH8hBP5eJ0YhlY9tb\n2f4hFmSL1XR9+LkzNdoOJw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mamie-koca@appspot.gserviceaccount.com",
+  "client_id": "112977488325150107979",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mamie-koca%40appspot.gserviceaccount.com"
+}

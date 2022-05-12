@@ -1,0 +1,10 @@
+steps:
+- name: "gcr.io/cloud-builders/docker"
+  args: ["build", "-t", "gcr.io/mamie-koca/fbc-student-api:$COMMIT_SHA", '.']
+- name: "gcr.io/cloud-builders/docker"
+  args: ["push", "gcr.io/mamie-koca/fbc-student-api:$COMMIT_SHA"]
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'fbc-student-api', '--image', 'gcr.io/mamie-koca/fbc-student-api:$COMMIT_SHA', '--region', 'us-central1', '--platform', 'managed', '--port', '5500']
+images:
+  - gcr.io/mamie-koca/fbc-student-api:$COMMIT_SHA

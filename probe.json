@@ -1,0 +1,39 @@
+{
+  "01EWFGK44NK9CGMFYFGTHVS5EF": {
+    "status": "Pending Approval",
+    "student": {
+      "id": "rlf-323",
+      "name": "Karna Barrie",
+      "gender": "Male",
+      "birth": {
+        "date": "2021-01-12",
+        "place": "Salone"
+      },
+      "contact": {
+        "phone": "+23276384784",
+        "email": "bakish76@gmail.com",
+        "town": "Freetown",
+        "nationality": "Antarctica"
+      },
+      "guardian": {
+        "name": "christana Jalloh",
+        "phone": "+23276384784",
+        "relation": "Mother"
+      }
+    },
+    "exam": {
+      "code": "29965",
+      "type": "Grant-In-Aid",
+      "campus": "LICCSAL Business College",
+      "course": "Building and Civil Engineering",
+      "academicYear": "2021",
+      "moduleCount": 4,
+      "program": {
+        "main": "Diploma",
+        "sub": "Diploma"
+      }
+    },
+    "createdAt": "2021-01-20T09:04:16.436Z",
+    "updatedAt": "2021-01-20T09:04:16.532Z"
+  }
+}
